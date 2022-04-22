@@ -1,0 +1,16 @@
+{
+"companyName": "PyrebugStudios",
+"productName": "EOS-503",
+"productVersion": "1.0.7",
+"dataUrl": "EOS-503-BETA-TESTING.data.unityweb",
+"wasmCodeUrl": "EOS-503-BETA-TESTING.wasm.code.unityweb",
+"wasmFrameworkUrl": "EOS-503-BETA-TESTING.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
